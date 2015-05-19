@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-mixpanel",
+  "name": "ember-cli-duda-fork-mixpanel",
   "version": "0.0.3",
   "description": "Ember CLI addon for tracking users activities via Mixpanel",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:remerge/ember-cli-mixpanel.git"
+    "url": "git@github.com:DudaDev/ember-cli-mixpanel.git"
   },
   "engines": {
     "node": ">= 0.10.0"
